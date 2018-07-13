@@ -1,0 +1,3 @@
+Fundamentals
+===========
+* Euclidean Algorithm
