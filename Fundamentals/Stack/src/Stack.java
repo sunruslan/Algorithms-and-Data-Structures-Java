@@ -26,6 +26,9 @@ public class Stack<Item> implements Iterable<Item> {
         --size;
         return item;
     }
+    public Item peek () {
+        return top.item;
+    }
 
     @Override
     public Iterator<Item> iterator() {
