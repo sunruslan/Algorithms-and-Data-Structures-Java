@@ -1,3 +1,3 @@
 Fundamentals
 ===========
-* Euclidean Algorithm
+* <a href="/EuclideanAlgorithm/src/"> Euclidean Algorithm </a>
