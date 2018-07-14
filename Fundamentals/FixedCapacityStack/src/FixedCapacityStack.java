@@ -15,4 +15,7 @@ public class FixedCapacityStack <Item> {
     public int getSize() {
         return size;
     }
+    public boolean isFull () {
+        return size == arr.length - 1;
+    }
 }
