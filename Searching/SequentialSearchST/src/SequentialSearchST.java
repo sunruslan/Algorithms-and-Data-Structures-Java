@@ -10,7 +10,7 @@ public class SequentialSearchST<Key extends Comparable<Key>, Value> {
         private Value value;
         private Key key;
         private Node next;
-        Node (Key key, Value value, Node next) {
+        public Node (Key key, Value value, Node next) {
             this.key = key;
             this.value = value;
             this.next = next;
